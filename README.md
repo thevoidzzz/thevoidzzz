@@ -30,20 +30,28 @@ Construyo software de operaciones: arquitectura modular, datos consistentes y un
 ### Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,java,spring,angular,postgres,redis,docker&theme=dark&perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,java,spring,angular,postgres,redis,docker&theme=light&perline=6">
-    <img alt="Stack principal" src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,java,spring,angular,postgres,redis,docker&theme=dark&perline=6">
-  </picture>
+  <img alt="TypeScript" width="48" src="https://skillicons.dev/icons?i=ts&amp;theme=dark">
+  <img alt="JavaScript" width="48" src="https://skillicons.dev/icons?i=js&amp;theme=dark">
+  <img alt="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark">
+  <img alt="Next.js" width="48" src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark">
+  <img alt="React" width="48" src="https://skillicons.dev/icons?i=react&amp;theme=dark">
+  <img alt="Tailwind" width="48" src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark">
+  <img alt="Java" width="48" src="https://skillicons.dev/icons?i=java&amp;theme=dark">
+  <img alt="Spring" width="48" src="https://skillicons.dev/icons?i=spring&amp;theme=dark">
+  <img alt="Angular" width="48" src="https://skillicons.dev/icons?i=angular&amp;theme=dark">
+  <img alt="PostgreSQL" width="48" src="https://skillicons.dev/icons?i=postgres&amp;theme=dark">
+  <img alt="Redis" width="48" src="https://skillicons.dev/icons?i=redis&amp;theme=dark">
+  <img alt="Docker" width="48" src="https://skillicons.dev/icons?i=docker&amp;theme=dark">
 </p>
 
 <p align="center">
   <sub>En curso: Python, FastAPI, AWS y Azure DevOps</sub><br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,aws,azure,githubactions,linux&theme=dark&perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi,aws,azure,githubactions,linux&theme=light&perline=6">
-    <img alt="Stack en curso" src="https://skillicons.dev/icons?i=py,fastapi,aws,azure,githubactions,linux&theme=dark&perline=6">
-  </picture>
+  <img alt="Python" width="48" src="https://skillicons.dev/icons?i=py&amp;theme=dark">
+  <img alt="FastAPI" width="48" src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark">
+  <img alt="AWS" width="48" src="https://skillicons.dev/icons?i=aws&amp;theme=dark">
+  <img alt="Azure" width="48" src="https://skillicons.dev/icons?i=azure&amp;theme=dark">
+  <img alt="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark">
+  <img alt="Linux" width="48" src="https://skillicons.dev/icons?i=linux&amp;theme=dark">
 </p>
 
 ### Cómo trabajo
